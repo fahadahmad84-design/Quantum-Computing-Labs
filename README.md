@@ -1,5 +1,3 @@
-# Quantum-Computing
-Interactive Qiskit Labs for Quantum Computing (M34099)
 # Quantum Computing Laboratories
 
 Interactive Qiskit laboratories for **M34099 Quantum Computing** at the University of Portsmouth.

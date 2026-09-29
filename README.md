@@ -22,6 +22,8 @@ Explore basis states, amplitudes, probabilities, normalisation, the Hadamard gat
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fahadahmad84-design/Quantum-Computing-Labs/blob/main/notebooks/Week_01_First_Quantum_Circuit.ipynb)
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fahadahmad84-design/Quantum-Computing-Labs/blob/main/notebooks/Week_02_QC_M34099_Student.ipynb)
+
 ## Execution options
 
 Each laboratory provides two execution routes:

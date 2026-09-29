@@ -19,7 +19,7 @@ These notebooks help students move from quantum-computing theory to practical ci
 
 Explore basis states, amplitudes, probabilities, normalisation, the Hadamard gate and repeated quantum measurements.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fahadahmad84-design/Quantum-Computing-Labs/blob/main/notebooks/Week_01_First_Quantum_Circuit.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fahadahmad84-design/Quantum-Computing-Labs/blob/main/notebooks/Week_01_QC_M34099_Student.ipynb)
 
 ### Week 2 — Qubit States, Phase and Measurement Bases
 

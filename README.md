@@ -25,7 +25,7 @@ Explore basis states, amplitudes, probabilities, normalisation, the Hadamard gat
 
 Need to verify a claim that its one-qubit circuit is a trustworthy quantum random-number generator (QRNG).
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fahadahmad84-design/Quantum-Computing-Labs/blob/main/notebooks/Week_02_QC_M34099_Student.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fahadahmad84-design/Quantum-Computing-Labs/blob/main/notebooks/Week_02_QC_M34099_Student.ipynb.ipynb)
 
 ## Execution options
 

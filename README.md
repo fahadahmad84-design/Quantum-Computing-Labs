@@ -29,7 +29,7 @@ Need to verify a claim that its one-qubit circuit is a trustworthy quantum rando
 
 ### Week 3 — Single-Qubit Gates and Circuit Order
 
-Need to verify that a one-qubit circuit correctly and efficiently prepares the target state \(|-i\rangle = \frac{|0\rangle-i|1\rangle}{\sqrt{2}}\) from \(|0\rangle\).
+Need to design and verify a one-qubit circuit that correctly and efficiently prepares the target quantum state from the initial state.
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fahadahmad84-design/Quantum-Computing-Labs/blob/main/notebooks/Week_03_QC_M34099_Student.ipynb)
 

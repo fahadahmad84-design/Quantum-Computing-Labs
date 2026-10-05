@@ -15,19 +15,19 @@ These notebooks help students move from quantum-computing theory to practical ci
 
 ## Available Laboratories
 
-### Week 1 — Basis States, Amplitudes, Probabilities, Normalisation
+### Week 1 - Basis States, Amplitudes, Probabilities, Normalisation
 
 Explore basis states, amplitudes, probabilities, normalisation, the Hadamard gate and repeated quantum measurements.
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fahadahmad84-design/Quantum-Computing-Labs/blob/main/notebooks/Week_01_QC_M34099_Student.ipynb)
 
-### Week 2 — Qubit States, Phase and Measurement Bases
+### Week 2 - Qubit States, Phase and Measurement Bases
 
 Need to verify a claim that its one-qubit circuit is a trustworthy quantum random-number generator (QRNG).
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fahadahmad84-design/Quantum-Computing-Labs/blob/main/notebooks/Week_02_QC_M34099_Student.ipynb)
 
-### Week 3 — Single-Qubit Gates and Circuit Order
+### Week 3 - Single-Qubit Gates and Circuit Order
 
 Need to design and verify a one-qubit circuit that correctly and efficiently prepares the target quantum state from the initial state.
 

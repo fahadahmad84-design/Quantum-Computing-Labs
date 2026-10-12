@@ -33,6 +33,12 @@ Need to design and verify a one-qubit circuit that correctly and efficiently pre
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fahadahmad84-design/Quantum-Computing-Labs/blob/main/notebooks/Week_03_QC_M34099_Student.ipynb)
 
+### Week 4 - Multi-Qubit Circuits and Entanglement
+
+Need to build and verify a two-qubit circuit that prepares a Bell state and use Z-basis and X-basis measurements to distinguish quantum entanglement from classical correlation.
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fahadahmad84-design/Quantum-Computing-Labs/blob/main/notebooks/Week_04_QC_M34099_Student.ipynb)
+
 ## Execution options
 
 Each laboratory provides two execution routes:

@@ -39,6 +39,12 @@ Need to build and verify a two-qubit circuit that prepares a Bell state and use 
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fahadahmad84-design/Quantum-Computing-Labs/blob/main/notebooks/Week_04_QC_M34099_Student.ipynb)
 
+### Week 5 - Quantum Communication Protocols
+
+Build and test simple circuits for Bell-state correlations, quantum teleportation, superdense coding and BB84.
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fahadahmad84-design/Quantum-Computing-Labs/blob/main/notebooks/Week_05_QC_M34099_Student.ipynb)
+
 ## Execution options
 
 Each laboratory provides two execution routes:

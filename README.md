@@ -51,6 +51,12 @@ Build and test simple circuits for mod-2 calculations, the Deutsch-Jozsa algorit
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fahadahmad84-design/Quantum-Computing-Labs/blob/main/notebooks/Week_06_QC_M34099_Student.ipynb)
 
+### Week 7 - Grover’s Search and Shor’s Algorithm
+
+Build and test Grover’s search, amplitude amplification, period finding and factor recovery using Shor’s algorithm.
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fahadahmad84-design/Quantum-Computing-Labs/blob/main/notebooks/Week_07_QC_M34099_Student.ipynb)
+
 ## Execution options
 
 Each laboratory provides two execution routes:

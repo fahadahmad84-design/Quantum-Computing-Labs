@@ -57,6 +57,12 @@ Build and test Grover’s search, amplitude amplification, period finding and fa
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fahadahmad84-design/Quantum-Computing-Labs/blob/main/notebooks/Week_07_QC_M34099_Student.ipynb)
 
+### Week 8 - Variational Algorithms and Quantum Machine Learning
+
+Build and test parameterised quantum circuits, expectation values, hybrid optimisation and a simple variational quantum classifier.
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fahadahmad84-design/Quantum-Computing-Labs/blob/main/notebooks/Week_08_QC_M34099_Student.ipynb)
+
 ## Execution options
 
 Each laboratory provides two execution routes:

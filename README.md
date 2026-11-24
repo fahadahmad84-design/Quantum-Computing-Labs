@@ -63,6 +63,12 @@ Build and test parameterised quantum circuits, expectation values, hybrid optimi
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fahadahmad84-design/Quantum-Computing-Labs/blob/main/notebooks/Week_08_QC_M34099_Student.ipynb)
 
+### Week 9 - Quantum Noise and Error Mitigation
+
+Build and test noisy quantum circuits, sampling variation, readout errors, confusion matrices and measurement-error mitigation.
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fahadahmad84-design/Quantum-Computing-Labs/blob/main/notebooks/Week_09_QC_M34099_Student.ipynb)
+
 ## Execution options
 
 Each laboratory provides two execution routes:
